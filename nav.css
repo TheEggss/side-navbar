@@ -15,6 +15,7 @@ body {
 	display: flex;
 	align-items: center;
 	flex-direction: column;
+	transition-duration: 0.5s;
 }
 
 .open {
